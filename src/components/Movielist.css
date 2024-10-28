@@ -1,0 +1,15 @@
+.movie-list {
+    padding: 20px;
+  }
+  
+  .movies-container {
+    display: flex;
+    gap: 20px;
+    overflow-x: auto;
+    padding-bottom: 10px;
+    margin-top: 0;
+  }
+  .recommend{
+    margin-left: 20px;
+  }
+  
